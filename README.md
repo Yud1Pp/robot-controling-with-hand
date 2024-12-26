@@ -36,6 +36,12 @@ A small step towards sustainable tech, a big leap in innovation!
 2. Download the Arduino code from the repository and upload it to your Arduino board.
 3. Ensure the servo motors are properly wired to the Arduino board.
 
+## Demo Video
+
+[Watch the video on YouTube](https://youtube.com/shorts/X0DXmyAUjNU?feature=share)
+
+
+
 ### 2. Python Setup
 1. Install Python (if not already installed): [Python Official Website](https://www.python.org/downloads/).
 2. Install the required Python libraries:
